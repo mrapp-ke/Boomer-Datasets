@@ -13,6 +13,14 @@ In addition, this repositories does also include [toy datasets](https://github.c
 
 Moreover, this repository does also contain several [synthetic datasets](https://github.com/mrapp-ke/Boomer-Datasets/tree/main/synthetic-datasets) with varying characteristics, as well as a Python script for generating them, originating from [this](https://link.springer.com/content/pdf/10.1007/s10994-012-5285-8.pdf) paper. These datasets may be useful to investigate the ability of different classification methods to deal with conditional and marginal label dependence. The motivation to capture hidden dependencies between labels that can be found in most real-world datasets is a driving force of research on multi-label classification.
 
+## Cloning the Repository
+
+This repository uses [Git Large File Storage (LFS)](https://git-lfs.github.com/). It is required to have this open source extension to the Git version control system installed on your computer. Once you have installed the software, the repository can be cloned as usual via the following command:
+
+```
+git clone https://github.com/mrapp-ke/Boomer-Datasets.git
+```
+
 ## Benchmark Datasets
 
 In accordance with the [Mulan data format](http://mulan.sourceforge.net/format.html), all datasets that are provided by this repository come as an [.arff](http://weka.wikispaces.com/ARFF) file that specify the feature values and ground truth labels of the examples they entail. In addition, a .xml file that specifies the names of the available labels is provided for each dataset. In most cases, predefined splits of a dataset into training and test data (indicated by including the suffixes `-train` and `-test` in the respective file names) are available as well.
