@@ -119,7 +119,7 @@ This dataset contains 120,919 textual summaries of movie plots that have been ob
 
 *Jesse Read. Scalable multi-label classification. PhD Thesis, University of Waikato, 2010.*
 
-A datset that was created from the Language Log Forum, where various topics related to language were discussed.
+A dataset that was created from the Language Log Forum, where various topics related to language were discussed.
 
 #### Mediamill
 
