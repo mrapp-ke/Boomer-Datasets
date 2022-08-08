@@ -23,7 +23,7 @@ git clone https://github.com/mrapp-ke/Boomer-Datasets.git
 
 ## Benchmark Datasets
 
-In accordance with the [Mulan data format](http://mulan.sourceforge.net/format.html), all datasets that are provided by this repository come as an [.arff](http://weka.wikispaces.com/ARFF) file that specify the feature values and ground truth labels of the examples they entail. In addition, a .xml file that specifies the names of the available labels is provided for each dataset. In most cases, predefined splits of a dataset into training and test data (indicated by including the suffixes `-train` and `-test` in the respective file names) are available as well.
+In accordance with the [Mulan data format](http://mulan.sourceforge.net/format.html), all datasets that are provided by this repository come as an [.arff](http://weka.wikispaces.com/ARFF) file that specify the feature values and ground truth labels of the examples they entail. In addition, a .xml file that specifies the names of the available labels is provided for each dataset. In most cases, predefined splits of a dataset into training and test data (indicated by including the suffixes `_training` and `_test` in the respective file names) are available as well.
 
 In the following, we provide a description of the datasets that are included in this repository, as well as references to the original authors:
 
