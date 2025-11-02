@@ -184,6 +184,12 @@ A collection of text classification datasets, generated from text that has been 
 
 A subset of the Aviation Safety Reporting System dataset. It contains 28,596 aviation safety text reports about events that took place during a flight and that have been submitted by the flight crew afterwards. The goal is to label each document with the types of problems they describe. The dataset includes 49,060 discrete attribute that correspond to the terms that occur in the text reports. The safety reports are provided with 22 labels, each of them representing a problem type that may appear during a flight.
 
+### Virus-Pse-AAC
+
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems 98, pp. 172 — 184, 2016.*
+
+This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 207 sequences for virus species. Both the GO (Gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 6 subcellular locations (viral capsid, host cell membrane, host endoplasm reticulum, host cytoplasm, host nucleus and secreted).
+
 ### Water-Quality
 
 *H. Blockeel, S. Džeroski, and J. Grbovic. Simultaneous prediction of multiple chemical parameters of river water quality with tilde. Lecture Notes in Computer Science 1704, pp. 32–40, 1999.*
