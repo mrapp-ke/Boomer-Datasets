@@ -111,7 +111,7 @@ A dataset that was created from a survey among 407 participants who were either 
 
 A dataset for protein function classification. Each example represents a protein and each label corresponds to a protein class.
 
-### GPositive-Pse-AAC
+### GPositive-GO and GPositive-Pse-AAC
 
 *Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems, 98:172 — 184, 2016*
 
