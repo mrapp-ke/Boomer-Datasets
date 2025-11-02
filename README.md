@@ -33,6 +33,12 @@ In the following, we provide a description of the datasets that are included in 
 
 A compilation of around 20,000 newsgroup posts on 20 different topics.
 
+### 3Sources-BBC, 3Sources-Guardian, 3Sources-Reuters and 3Sources-Inter
+
+*Derek Greene and Pádraig Cunningham. A matrix factorization approach for integrating multiple data views. In Proceedings of the European Conference on Machine Learning and Knowledge Discovery in Databases (ECML-PKDD), pp. 423–438, 2009.*
+
+These datasets include 948 news articles covering 416 distinct news stories from the period February – April 2009. They have been collected from 3 sources: BBC, Reuters and The Guardian. Of these stories, 169 were reported in all three sources, 194 in two sources, and 53 appeared in a single news source. Each story was manually annotated with one or more of the six topical labels: business, entertainment, health, politics, sport, technology. In this way, three datasets with the news from BBC, Reuters and The Guardian respectively are created. A feature selection method has been performed in order to reduce the feature space and achieve a better performance. Each dataset has been selected 1000 features. Also, a dataset with the intersection (3Sources-Inter) of these three datasets (news which are in all three sources) has been created with the union of the 1000 features of each one of the datasets.
+
 ### Bibtex
 
 *Ioannis Katakis, Grigorios Tsoumakas, and Ioannis Vlahavas. Multilabel Text Classification for Automated Tag Suggestion. In Proceedings of the ECML/PKDD 2008 Discovery Challenge, 2008.*
