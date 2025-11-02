@@ -117,6 +117,12 @@ A dataset for protein function classification. Each example represents a protein
 
 This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 519 sequences for Gram positive species. Both the GO (gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 4 subcellular locations (cell membrane, cell wall, cytoplasm and extracell).
 
+### Human-GO
+
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems, 98, pp. 172 — 184, 2016.*
+
+This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 3106 sequences for Human species. Both the GO (Gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 14 subcellular locations (centriole, cytoplasm, cytoskeleton, endoplasm reticulum, endosome, extracell, golgi apparatus, lysosome, microsome, mitochondrion, nucleus, peroxisome, plasma membrace, and synapse).
+
 ### Image
 
 *Min-Ling Zhang and Zhi-Hua Zhou. ML-kNN: A lazy learning approach to multi-label learning. Pattern Recognition, 40(7): pp. 2038–2048, 2007.*
