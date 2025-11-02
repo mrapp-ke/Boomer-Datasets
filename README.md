@@ -93,12 +93,6 @@ A dataset from the field of biology that is used to predict the sub-cellular loc
 
 A collection of 19,348 documents about European Union law. It contains many different types of documents, such as treaties or case-law and legislative proposals, which are indexed according to several orthogonal categorization schemes. The most important categorization is provided by the EUROVOC descriptors, which form a topical hierarchy with almost 4,000 categories that are concerned with different aspects of European law.
 
-#### Flags
-
-*E.C. Goncalves, Alexandre Plastino, and Alex A. Freitas. A genetic algorithm for optimizing the label ordering in multi-label classifier chains. In IEEE 25th International Conference on Tools with Artificial Intelligence, pp. 469–476. 2013.*
-
-The goal of this dataset is to predict certain characteristics of flags, such as colors or shapes, based on information about the corresponding countries.
-
 #### Foodtruck
 
 *Adriano Rivolli, Larissa C. Parker, and Andre C.P.L.F. de Carvalho. Food Truck Recommendation Using Multi-label Classification. In EPIA 2017: Progress in Artificial Intelligence, pp. 585–596, 2017.*
