@@ -184,6 +184,12 @@ A collection of text classification datasets, generated from text that has been 
 
 A subset of the Aviation Safety Reporting System dataset. It contains 28,596 aviation safety text reports about events that took place during a flight and that have been submitted by the flight crew afterwards. The goal is to label each document with the types of problems they describe. The dataset includes 49,060 discrete attribute that correspond to the terms that occur in the text reports. The safety reports are provided with 22 labels, each of them representing a problem type that may appear during a flight.
 
+### Water-Quality
+
+*H. Blockeel, S. Džeroski, and J. Grbovic. Simultaneous prediction of multiple chemical parameters of river water quality with tilde. Lecture Notes in Computer Science 1704, pp. 32–40, 1999.*
+
+This dataset is used to predict the quality of water of Slovenian rivers, given 16 characteristics such as the temperature, ph, hardness, NO2 or C02.
+
 ### Yahoo-Arts, Yahoo-Business, Yahoo-Computers, Yahoo-Education, Yahoo-Entertainment, Yahoo-Health, Yahoo-Recreation, Yahoo-Reference, Yahoo-Science, Yahoo-Social, Yahoo-Society
 
 *N. Ueda, K. Saito: Parametric mixture models for multi-labeled text, In Neural Information Processing Systems (NIPS), pp. 737-744, 2002.*
