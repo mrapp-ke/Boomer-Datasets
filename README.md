@@ -57,7 +57,7 @@ A dataset that is based on the ECML/PKDD 2008 discovery challenge. It contains b
 
 A music dataset that is composed of 502 songs. Each one was manually annotated with a subset of 174 tags that correspond to 6 semantic concepts: instrumentation, vocal characteristics, genres, emotions, acoustic quality and usage terms.
 
-### CHD_49
+### CHD-49
 
 *H. Shao, G.Z. Li, G.P. Liu, and Y.Q. Wang. Symptom selection for multi-label data of inquiry diagnosis in traditional chinese medicine. Science China Information Sciences, 56(5):1–13, 2013.*
 
