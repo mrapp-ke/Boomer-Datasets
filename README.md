@@ -101,7 +101,7 @@ This datasets includes a subset of the Enron e-mail corpus, annotated with diffe
 
 ### Eukaryote-GO and Eukaryote-Pse-AAC
 
-*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems, 98: pp. 172 — 184, 2016*
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems (98), pp. 172 — 184, 2016*
 
 A dataset from the field of biology that is used to predict the sub-cellular locations of proteins according to 7,766 sequences for the Eukaryote species. Two variants that come with gene onology feature (GO) or include 20 amino acid, 20 pseudo-amino acid and 400 diptide components (Pse-AAC) are available.
 
@@ -123,15 +123,21 @@ A dataset that was created from a survey among 407 participants who were either 
 
 A dataset for protein function classification. Each example represents a protein and each label corresponds to a protein class.
 
+### GNegative-GO and GNegative-Pse-AAC
+
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems (98), pp. 172 — 184, 2016.*
+
+This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 1392 sequences for Gram negative bacterial (Gnegative) species. Both the GO (Gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 8 subcellular locations (cell inner membrane, cell outer membrane, cytoplasm, extracellular, fimbrium, flagellum, nucleoid and periplasm).
+
 ### GPositive-GO and GPositive-Pse-AAC
 
-*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems, 98:172 — 184, 2016*
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems (98), pp. 172 — 184, 2016*
 
 This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 519 sequences for Gram positive species. Both the GO (gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 4 subcellular locations (cell membrane, cell wall, cytoplasm and extracell).
 
 ### Human-GO and Human-Pse-AAC
 
-*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems, 98, pp. 172 — 184, 2016.*
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems (98), pp. 172 — 184, 2016.*
 
 This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 3106 sequences for Human species. Both the GO (Gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 14 subcellular locations (centriole, cytoplasm, cytoskeleton, endoplasm reticulum, endosome, extracell, golgi apparatus, lysosome, microsome, mitochondrion, nucleus, peroxisome, plasma membrace, and synapse).
 
@@ -179,7 +185,7 @@ This dataset consists of medical abstracts from the MeSH categories of the year 
 
 ### Plant-GO and Plant-Pse-AAC
 
-*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems 98, pp. 172 — 184, 2016.*
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems (98), pp. 172 — 184, 2016.*
 
 This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 978 sequences for Plant species. Both the GO (Gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 12 subcellular locations (cell membrace, cell wall, chloroplast, cytoplasm, endoplasmic reticulum, extracellular, golgi apparatus, mitochondrion, nucleus, peroxisome, plastid, and vacuole). 
 
@@ -222,7 +228,7 @@ A subset of the Aviation Safety Reporting System dataset. It contains 28,596 avi
 
 ### Virus-Pse-AAC
 
-*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems 98, pp. 172 — 184, 2016.*
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems (98), pp. 172 — 184, 2016.*
 
 This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 207 sequences for virus species. Both the GO (Gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 6 subcellular locations (viral capsid, host cell membrane, host endoplasm reticulum, host cytoplasm, host nucleus and secreted).
 
