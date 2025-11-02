@@ -165,7 +165,7 @@ An image classification dataset, where images are represented using 128-D cVLAD+
 
 This dataset consists of medical abstracts from the MeSH categories of the year 1991 that should be assigned to 23 cardiovascular disease categories.
 
-### Plant-GO
+### Plant-GO and Plant-Pse-AAC
 
 *Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems 98, pp. 172 — 184, 2016.*
 
