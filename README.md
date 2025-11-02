@@ -189,6 +189,12 @@ This dataset is used to predict the sub-cellular locations of proteins according
 
 A well-known benchmark dataset for text classification that was created from the larger Reuters-RCV1 corpus by selecting a subset of 500 features.
 
+### Reuters-RCV1-1 to Reuters-RCV1-5
+
+*David D. Lewis, Yiming Yang, Tony G. Rose, and Fan Li. RCV1: A new benchmark collection for text categorization research. Journal of Machine Learning Research (5), pp. 361-397, 2004.*
+
+This dataset is a well-known benchmark for text classification methods. It has 5 subsets, each one with 6.000 articles assigned into one or more of 101 topics.
+
 ### Scene
 
 *Matthew R. Boutell, Jiebo Luo, Xipeng Shen, and Christopher M. Brown. Learning multi-label scene classification. Pattern Recognition, 37(9): pp. 1757–1771, 2004.*
