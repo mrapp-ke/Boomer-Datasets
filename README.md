@@ -75,6 +75,12 @@ This dataset contains information about coronary heart disease (CHD) in traditio
 
 An popular benchmark dataset for image classification that is based on 5,000 Corel images.
 
+### Corel16k-1 to Corel16k-10
+
+*Kobus Barnard, Pinar Duygulu, Nando de Freitas, David Forsyth, David Blei, and Michael I. Jordan. Matching Words and Pictures. Journal of Machine Learning Research (3), pp. 1107-1135, 2003.*
+
+This dataset consists of 10 parts and is derived from the popular benchmark dataset ECCV 2002 by eliminating less frequently appeared labels.
+
 ### Delicious
 
 *G. Tsoumakas, I. Katakis, and I. Vlahavas. Effective and Efficient Multilabel Classification in Domains with Large Number of Labels. In Proc. ECML/PKDD 2008 Workshop on Mining Multidimensional Data, 2008.*
