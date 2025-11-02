@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<labels xmlns="http://mulan.sourceforge.net/labels">
+<label name="IsFoodGood"> </label>
+<label name="IsServiceGood"> </label>
+<label name="IsAmbianceGood"> </label>
+<label name="IsDealsGood"> </label>
+<label name="IsPriceGood"> </label>
+</labels>

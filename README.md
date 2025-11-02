@@ -189,3 +189,9 @@ A collection of text classification datasets. The goal is to annotate web pages 
 *Andre Elisseeff and Jason Weston. A kernel method for multi-labelled classification. In Advances in Neural Information Processing Systems, 14: pp. 681–687, 2001.*
 
 This dataset contains micro-array expressions and phylogenetic profiles for 2,417 yeast genes. Each gene is annoted with a subset of 14 functional categories (e.g., metabolism, energy, etc.) of the top-level of the functional catalogue.
+
+### Yelp
+
+*H. Sajnani, V. Saini, K. Kumar, E. Gabrielova, P. Choudary, C. Lopes. Classifying Yelp reviews into relevant categories. Technical Report, 2013.*
+
+This dataset has been obtained from more than 10.000 user reviews and ratings about business and services on Yelp. It is concerned with categorizing whether the food, service, ambiance, deals and price of one of these business are good or not.
