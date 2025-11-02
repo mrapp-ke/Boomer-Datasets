@@ -165,6 +165,12 @@ An image classification dataset, where images are represented using 128-D cVLAD+
 
 This dataset consists of medical abstracts from the MeSH categories of the year 1991 that should be assigned to 23 cardiovascular disease categories.
 
+### Plant-GO
+
+*Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems 98, pp. 172 — 184, 2016.*
+
+This dataset is used to predict the sub-cellular locations of proteins according to their sequences. It contains 978 sequences for Plant species. Both the GO (Gene ontology) features and PseAAC (including 20 amino acid, 20 pseudo-amino acid and 400 diptide components) are provided. There are 12 subcellular locations (cell membrace, cell wall, chloroplast, cytoplasm, endoplasmic reticulum, extracellular, golgi apparatus, mitochondrion, nucleus, peroxisome, plastid, and vacuole). 
+
 ### Reuters-K500
 
 *Grigorios Tsoumakas and Ioannis Vlahavas. Random k-Labelsets: An Ensemble Method for Multilabel Classification. In Proceedings of the European Conference on Machine Learning (ECML), pp. 406–417, 2007.*
