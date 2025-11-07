@@ -51,7 +51,7 @@ A dataset that is based on the ECML/PKDD 2008 discovery challenge. It contains 7
 
 A dataset that is aimed at predicting the set of bird species that one can hear in ten-second audio clips.
 
-### BlogCatalog
+### BlogCatalog-Deepwalk, BlogCatalog-Line and BlogCatalog-Node2Vec
 
 *Lei Tang and Huan Liu. Relational learning via latent social dimensions. In Proc. ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), pp. 817–826, 2009.*
 
@@ -232,6 +232,13 @@ A collection of text classification datasets, generated from text that has been 
 
 A subset of the Aviation Safety Reporting System dataset. It contains 28,596 aviation safety text reports about events that took place during a flight and that have been submitted by the flight crew afterwards. The goal is to label each document with the types of problems they describe. The dataset includes 49,060 discrete attribute that correspond to the terms that occur in the text reports. The safety reports are provided with 22 labels, each of them representing a problem type that may appear during a flight.
 
+### UNFAIR-ToS (LexGLUE) TF-IDF
+
+*Ilias Chalkidis, Abhik Jana, Dirk Hartung, Michael Bommarito, Ion Androutsopoulos, Daniel Katz, and Nikolaos Aletras. LexGLUE: A benchmark dataset for legal language understanding in English. In Proc. Annual Meeting of the Association for Computational Linguistics, pp. 4310–4330, 2022.*
+
+This dataset contains 50 Terms of Service (ToS) from on-line platforms (e.g., YouTube, Ebay, Facebook, etc.). The dataset has been annotated on the sentence-level with 8 types of unfair contractual
+terms, meaning terms (sentences) that potentially violate user rights according to EU consumer law. TF-IDF features have been calculated from the raw texts.
+
 ### Virus-Pse-AAC
 
 *Jianhua Xu, Jiali Liu, Jing Yin, and Chengyu Sun. A multi-label feature extraction algorithm via maximizing feature variance and feature-label dependence simultaneously. Knowledge-Based Systems (98), pp. 172 — 184, 2016.*
@@ -261,3 +268,5 @@ This dataset contains micro-array expressions and phylogenetic profiles for 2,41
 *H. Sajnani, V. Saini, K. Kumar, E. Gabrielova, P. Choudary, C. Lopes. Classifying Yelp reviews into relevant categories. Technical Report, 2013.*
 
 This dataset has been obtained from more than 10.000 user reviews and ratings about business and services on Yelp. It is concerned with categorizing whether the food, service, ambiance, deals and price of one of these business are good or not.
+
+### YouTube
